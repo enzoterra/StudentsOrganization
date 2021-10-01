@@ -1,0 +1,52 @@
+main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+}
+
+#login-logo {
+    width: 70px;
+    filter: var(--blue-svg);
+}
+
+label {
+    font-size: 20px;
+}
+
+.input {
+    width: 30%;
+    left: 5vw;
+}
+
+input[type="text"]{
+    font-size: 20px;
+}
+
+select {
+    font-size: 18px;
+}
+
+option{
+    font-size: 18px;
+}
+
+form {
+    top: 20vh;
+    position: relative;
+}
+
+.col-2 {
+    margin-left: 5vw;
+}
+
+.col-12 {
+    height: 10vh;
+}
+
+
+button {
+    width: 100%;
+}

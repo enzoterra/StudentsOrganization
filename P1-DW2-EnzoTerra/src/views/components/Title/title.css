@@ -1,0 +1,16 @@
+#title-span {
+    display: flex;
+    flex-direction: row;
+    column-gap: 7px;
+    margin-top: 20px;
+    position: absolute;
+}
+
+#title-span img {
+    width: 30px;
+}
+
+h1 {
+    font-weight: 500;
+    color: var(--dark-blue);
+}

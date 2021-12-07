@@ -20,12 +20,13 @@ Este é um site feito em PHP para criar e mostrar uma lista de alunos utilizando
 
 **PÁGINA INICIAL**
 
-![BemTeVi-Index](https://user-images.githubusercontent.com/72806847/144888841-10186ff3-e9c6-4ba7-8398-b0cd36c4806e.jpg)
+![StudentsOrganization - Index](https://user-images.githubusercontent.com/72806847/145064744-30b831d3-b367-4413-80b5-29173f7fd6fb.png)
 
 <br>
 
 **PÁGINA PARA ADICIONAR ALUNOS**
 
+![StudentsOrganization - Cadastro](https://user-images.githubusercontent.com/72806847/145064749-c044b193-874d-40ad-8133-a02baa6e1b9c.png)
 
 </br>
 
